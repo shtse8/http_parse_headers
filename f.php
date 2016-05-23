@@ -28,7 +28,7 @@
 
                     $out[$k][$i] .= "\r\n\t". $value;
                 } elseif (!$k)
-                    $out[0] = $value;
+                    $out['status'] = array($value);
             }
         }
 
