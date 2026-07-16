@@ -1,4 +1,9 @@
 # http_parse_headers
+
+<p align="center">
+  <img src="docs/banner.png" alt="http_parse_headers banner" width="100%" />
+</p>
+
 Analog function pecl_http/http_parser_headers
 
 ```php
