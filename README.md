@@ -1,7 +1,7 @@
 # http_parse_headers
 
 <p align="center">
-  <img src="docs/banner.png" alt="http_parse_headers banner" width="100%" />
+  <img src="https://mark.sylphx.com/api/v1/banner?type=void&theme=tokyonight&text=http+parse+headers&desc=Analog+function+pecl_http%2Fhttp_parser_headers&height=200&animation=rise&credit=0" alt="http_parse_headers — Sylphx Mark banner" width="100%" />
 </p>
 
 Analog function pecl_http/http_parser_headers
