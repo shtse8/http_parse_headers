@@ -1,7 +1,7 @@
 # http_parse_headers
 
 <p align="center">
-  <img src="https://mark.sylphx.com/api/v1/mark/hero?type=void&theme=tokyonight&text=http+parse+headers&desc=Analog+function+pecl_http%2Fhttp_parser_headers&height=200&animation=rise" alt="http_parse_headers — Sylphx Mark banner" width="100%" />
+  <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&theme=dark&text=http_parse_headers&desc=Parse%20HTTP%20headers%20in%20PHP" alt="http_parse_headers" width="100%" />
 </p>
 
 Analog function pecl_http/http_parser_headers
